@@ -1,0 +1,4 @@
+ls file1.txt
+cd /home
+print
+exit
