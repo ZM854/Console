@@ -1,3 +1,3 @@
 @echo off
-py repl.py vfs.csv startup1.txt
+py repl.py vfs.csv startup.txt
 pause
