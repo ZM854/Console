@@ -1,0 +1,3 @@
+@echo off
+echo Running emulator with minimal VFS...
+py repl.py vfs_minimal.csv

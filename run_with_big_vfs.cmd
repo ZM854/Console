@@ -1,0 +1,3 @@
+@echo off
+echo Running emulator with big VFS...
+py repl.py vfs_big.csv

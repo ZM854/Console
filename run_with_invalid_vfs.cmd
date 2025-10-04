@@ -1,0 +1,3 @@
+@echo off
+echo Running emulator with invalid VFS...
+py repl.py vfs_invalid_type.csv startup_invalid_vfs.txt

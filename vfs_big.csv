@@ -1,0 +1,8 @@
+path,type,content
+/,dir,
+/docs,dir,
+/docs/readme.txt,file,UmVhZG1lIGZpbGU=
+/bin,dir,
+/bin/tool.sh,file,IyEvYmluL2Jhc2gKZWNobyAiUnVubmluZyB0b29sIg==
+/bin/utils,dir,
+/bin/utils/helper.sh,file,IyEvYmluL2Jhc2gKZWNobyAiSGVscGVyIHNjcmlwdCI=

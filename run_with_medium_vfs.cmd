@@ -1,0 +1,3 @@
+@echo off
+echo Running emulator with medium VFS...
+py repl.py vfs_medium.csv

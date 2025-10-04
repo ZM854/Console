@@ -1,3 +1,3 @@
 @echo off
-py repl.py vfs.csv startup.txt
-pause
+echo Running emulator with VFS and startup script...
+py repl.py vfs_medium.csv startup.txt
